@@ -53,7 +53,7 @@ func main() {
         imagesLock: &sync.Mutex{},
         imageChan:  make(chan *image, 100),
         pageIndex:  1,
-        rootURL:    "http://me2-sex.lofter.com/tag/美女摄影",
+        rootURL:    "http://sexy.faceks.com/tag/模特",
     }
     os.MkdirAll(*savePath, 0777)
     ctx.start()
