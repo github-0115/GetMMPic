@@ -12,6 +12,6 @@ pic_dl.py : http://www.oschina.net/code/snippet_2359276_50088
 
 *get_sex_pic.go*  用于下载一般像素的图片
 
-*pic_dl.py* 用于下载多线程下载图片
+*pic_dl.py* 用于多线程下载妹子图片
 
 
