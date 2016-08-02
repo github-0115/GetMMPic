@@ -6,7 +6,7 @@ Created on Fri Aug 07 17:30:58 2015
 @author: Dreace
 @modified: sndnvaps, 2016-08-02
 
-useage:
+usage:
   python pic_dl.py
 """
 import urllib2
